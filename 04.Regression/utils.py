@@ -6,7 +6,7 @@ def mean_absolute_percentage_error(y_true, y_pred):
     y_true, y_pred = np.array(y_true), np.array(y_pred)
     return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 
-def evaluate_model(test, pred):
+def evaluate_reg_model(test, pred):
     
     # 평가지표 계산
     mae = mean_absolute_error(test, pred)
