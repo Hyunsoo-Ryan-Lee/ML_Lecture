@@ -1,0 +1,9 @@
+color,size,target
+red,S,1
+blue,M,0
+green,L,0
+blue,M,1
+green,S,0
+red,L,1
+red,S,0
+blue,M,1
