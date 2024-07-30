@@ -11,11 +11,12 @@
 │   ├── dataset/
 │   ├── 1.Null.ipynb
 │   ├── 2.Encoding.ipynb
-│   ├── 3.Scaling.ipynb
-│   ├── 4.Transform.ipynb
-│   ├── 5.Outlier.ipynb
-│   ├── 6.Split.ipynb
-│   └── 7.차원축소.ipynb
+│   ├── 3.Datetime.ipynb
+│   ├── 4.Scaling.ipynb
+│   ├── 5.Transform.ipynb
+│   ├── 6.Outlier.ipynb
+│   ├── 7.Split.ipynb
+│   └── 8.차원축소.ipynb
 │
 ├── 03.ImbalancedData/      <<불균형 데이터>>
 │   ├── 1.UnderSampling.ipynb
