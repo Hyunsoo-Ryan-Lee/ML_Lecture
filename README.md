@@ -19,8 +19,9 @@
 │   └── 8.차원축소.ipynb
 │
 ├── 03.ImbalancedData/      <<불균형 데이터>>
-│   ├── 1.UnderSampling.ipynb
-│   └── 2.OverSampling.ipynb
+│   ├── 1.MakeDummyData.ipynb
+│   ├── 2.UnderSampling.ipynb
+│   └── 3.OverSampling.ipynb
 │
 ├── 04.Regression/          <<회귀 모델>>
 │   ├── dataset/
@@ -29,12 +30,15 @@
 │   ├── 3.경사하강법.ipynb
 │   ├── 4.MultipleLR.ipynb
 │   ├── 5.PolynominalLR.ipynb
+│   ├── 6.Others.ipynb
+│   ├── 7.CrossValidate.ipynb
 │   └── utils.py
 │
 ├── 05.Regularization/      <<규제>>
 │   ├── dataset/
 │   ├── 1.OverFitting&UnderFitting.ipynb
-│   └── 2.RegularizationMethod.ipynb
+│   ├── 2.RegularizationMethod.ipynb
+│   └── 3.GridSearch.ipynb
 │
 ├── 06.Classification/      <<분류 모델>>
 │   ├── dataset/
@@ -45,22 +49,23 @@
 │   ├── 5.NaiveBayes.ipynb
 │   ├── 6.DecisionTree.ipynb
 │   ├── 7.RandomForest.ipynb
+│   ├── 8.CrossValidate.ipynb
 │   └── utils.py
 │
 ├── 07.Ensemble/            <<앙상블 모델>>
 │   ├── dataset/
-│   ├── 1.voting.ipynb
-│   ├── 2.bagging.ipynb
-│   ├── 3.boosting.ipynb
-│   ├── 4.stacking.ipynb
+│   ├── 1.Voting.ipynb
+│   ├── 2.Bagging.ipynb
+│   ├── 3.Boosting.ipynb
+│   ├── 4.Stacking.ipynb
 │   └── utils.py
 │
 ├── 08.Clustering/          <<군집>>
 │   ├── dataset/
+│   ├── 1.KMeans.ipynb
 │   ├── 2.Hierarchical.ipynb
 │   ├── 3.DBSCAN.ipynb
-│   ├── 4.GMM.ipynb
-│   └── clustering_iris.ipynb
+│   └── 4.GMM.ipynb
 │
 └── 09.Recommendation/      <<추천 모델>>
 ```
