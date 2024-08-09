@@ -7,3 +7,7 @@ imblearn
 scikit-surprise==1.1.4
 xgboost
 scikit-surprise
+SQLAlchemy
+pymysql
+easydict
+requests
